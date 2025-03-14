@@ -35,8 +35,7 @@
               "title": "Análisis de Funciones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,10 +215,10 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "f00a03741647f270",
+  "active": "232ca42b3c519eec",
   "lastOpenFiles": [
-    "Universidad/Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
     "Universidad/Cálculo Matemático 1/Análisis de Funciones.md",
+    "Universidad/Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
     "Universidad/Cálculo Matemático 1",
     "Universidad/Algoritmos y Estructuras de Datos/Recursión vs Iteración en Fuerza Bruta.md",
     "General/consejos.md",
