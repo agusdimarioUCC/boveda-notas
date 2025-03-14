@@ -73,9 +73,9 @@ $$
 
 El resultado es:
 $$
-f(x)= x-5+\\frac{25}{x+5}.
+f(x)= x-5+\frac{25}{x+5}
 $$  
-Cuando $$x\\to \\pm\\infty$$, la fracción tiende a 0 y la función se comporta como:  
+Cuando $$x\to \pm\infty$$, la fracción tiende a 0 y la función se comporta como:  
 $$
 y=x-5.
 $$  
@@ -92,16 +92,16 @@ $$
 
 Para determinar máximos y mínimos locales, se calcula la primera derivada de  
 $$
-f(x)=\\frac{x^2}{x+5}.
+f(x)=\frac{x^2}{x+5}.
 $$
 
 Utilizando la regla del cociente:
 $$
-f'(x)= \\frac{(2x)(x+5) - x^2(1)}{(x+5)^2} = \\frac{2x^2+10x-x^2}{(x+5)^2} = \\frac{x^2+10x}{(x+5)^2}.
+f'(x)= \frac{(2x)(x+5) - x^2(1)}{(x+5)^2} = \frac{2x^2+10x-x^2}{(x+5)^2} = \frac{x^2+10x}{(x+5)^2}.
 $$  
 Factorizando el numerador:
 $$
-f'(x)=\\frac{x(x+10)}{(x+5)^2}.
+f'(x)=\frac{x(x+10)}{(x+5)^2}.
 $$
 
 Los puntos críticos se obtienen cuando el numerador es cero (sin contar los puntos donde la función no está definida):
@@ -109,27 +109,27 @@ Los puntos críticos se obtienen cuando el numerador es cero (sin contar los pun
   - **Caso 1:** $$x=0$$  
   - **Caso 2:** $$x=-10$$
 
-Verificamos que ambos puntos pertenecen al dominio (recordamos que $$x\\neq -5$$).
+Verificamos que ambos puntos pertenecen al dominio (recordamos que $$x\neq -5$$).
 
 ### 4.2. Clasificación de los Puntos Críticos
 
 Para clasificar estos puntos, analizamos el signo de $$f'(x)$$ en los intervalos determinados por los valores críticos y el punto de discontinuidad $$x=-5$$.
 
-- **Intervalo $$(-\\infty, -10)$$:**  
+- **Intervalo $$(-\infty, -10)$$:**  
   Tomemos $$x=-11$$:  
-  $$f'(-11)= \\frac{(-11)(-11+10)}{(-11+5)^2}= \\frac{(-11)(-1)}{36} = \\frac{11}{36}>0.$$
+  $$f'(-11)= \frac{(-11)(-11+10)}{(-11+5)^2}= \frac{(-11)(-1)}{36} = \frac{11}{36}>0.$$
 
 - **Intervalo $$(-10, -5)$$:**  
   Tomemos $$x=-7$$:  
-  $$f'(-7)= \\frac{(-7)(-7+10)}{(-7+5)^2}= \\frac{(-7)(3)}{4}= \\frac{-21}{4}<0.$$
+  $$f'(-7)= \frac{(-7)(-7+10)}{(-7+5)^2}= \frac{(-7)(3)}{4}= \frac{-21}{4}<0.$$
 
 - **Intervalo $$(-5, 0)$$:**  
   Tomemos $$x=-1$$:  
-  $$f'(-1)= \\frac{(-1)(-1+10)}{(-1+5)^2}= \\frac{(-1)(9)}{16}= \\frac{-9}{16}<0.$$
+  $$f'(-1)= \frac{(-1)(-1+10)}{(-1+5)^2}= \frac{(-1)(9)}{16}= \frac{-9}{16}<0.$$
 
-- **Intervalo $$(0, \\infty)$$:**  
+- **Intervalo $$(0, \infty)$$:**  
   Tomemos $$x=1$$:  
-  $$f'(1)= \\frac{1(1+10)}{(1+5)^2}= \\frac{11}{36}>0.$$
+  $$f'(1)= \frac{1(1+10)}{(1+5)^2}= \frac{11}{36}>0.$$
 
 **Conclusiones:**
 - En $$x=-10$$, $$f'(x)$$ cambia de positivo a negativo, lo que indica un **máximo local**.  
