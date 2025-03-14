@@ -65,7 +65,7 @@ $$
    $$x^2 - (x^2+5x)= -5x.$$
 
 2. **Segundo cociente:**  
-   $$-5x \\div x = -5.$$  
+   $$-5x \div x = -5.$$  
    Multiplicamos:  
    $$-5(x+5) = -5x - 25.$$  
    Restamos y obtenemos el residuo:  
