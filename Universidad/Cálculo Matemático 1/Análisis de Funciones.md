@@ -1,4 +1,3 @@
-title: "Notas de Cálculo Matemático:  - Ejemplo: $$f(x)=\\frac{x^2}{x+5}$$"
 date: 2025-03-14
 tags: [#CálculoMatemático, #Funciones, #Análisis, #Ejemplo]
 
