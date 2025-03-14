@@ -1,5 +1,3 @@
-# Recursión vs Iteración en Fuerza Bruta
-
 ## 📌 Resumen
 - La **recursión** es cuando una función **se llama a sí misma** para resolver un problema dividiéndolo en subproblemas más pequeños.
 - La **iteración** usa **bucles** (`for`, `while`) para repetir un proceso sin necesidad de llamadas recursivas.
