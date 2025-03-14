@@ -1,12 +1,11 @@
-date: 2025-03-14
 tags: [#CálculoMatemático, #Funciones, #Análisis, #Ejemplo]
 
-# Análisis Detallado de la Función $$f(x)=\\frac{x^2}{x+5}$$
+# Análisis Detallado de la Función $$f(x)=\frac{x^2}{x+5}$$
 
 En esta nota se desglosan en detalle los pasos y conceptos fundamentales del análisis de funciones, utilizando como ejemplo la función racional  
 
 $$
-f(x)=\\frac{x^2}{x+5}.
+f(x)=\frac{x^2}{x+5}.
 $$  
 Esta función es representativa para estudiar no solo sus propiedades básicas, sino también la forma en que se comporta en diferentes intervalos y puntos críticos.
 
@@ -15,13 +14,13 @@ Esta función es representativa para estudiar no solo sus propiedades básicas, 
 ## 1. Dominio de la Función
 
 El **dominio** de una función es el conjunto de todos los valores de $$x$$ para los que la función está definida.  
-Para $$f(x)=\\frac{x^2}{x+5}$$, el denominador no puede ser cero:  
+Para $$f(x)=\frac{x^2}{x+5}$$, el denominador no puede ser cero:  
 $$
-x+5\\neq0 \\quad\\Longrightarrow\\quad x\\neq -5.
+x+5\neq0 \quad\Longrightarrow\quad x\\neq -5.
 $$  
 Por lo tanto, el dominio es:  
 $$
-(-\\infty, -5) \\cup (-5, \\infty).
+(-\infty, -5) \cup (-5, \infty).
 $$
 
 ---
@@ -31,9 +30,9 @@ $$
 Los **ceros** de la función se encuentran igualando $$f(x)=0$$.  
 Como la función es una fracción, el numerador debe ser cero (siempre que el denominador sea distinto de cero):  
 $$
-x^2=0 \\quad\\Longrightarrow\\quad x=0.
+x^2=0 \quad\Longrightarrow\quad x=0.
 $$  
-Verificamos que $$x=0$$ pertenece al dominio (ya que $$0+5\\neq0$$).  
+Verificamos que $$x=0$$ pertenece al dominio (ya que $$0+5\neq0$$).  
 **Conclusión:** La función tiene un único cero en $$x=0$$.
 
 ---
@@ -44,7 +43,7 @@ Verificamos que $$x=0$$ pertenece al dominio (ya que $$0+5\\neq0$$).
 
 Se produce cuando el denominador se anula (y el numerador no lo compensa):  
 $$
-x+5=0 \\quad\\Longrightarrow\\quad x=-5.
+x+5=0 \quad\Longrightarrow\quad x=-5.
 $$  
 Así, en $$x=-5$$ hay una **asíntota vertical**.
 
@@ -59,7 +58,7 @@ $$
 **Procedimiento de división:**
 
 1. **Primer cociente:**  
-   $$x^2 \\div x = x.$$  
+   $$x^2 \div x = x.$$  
    Multiplicamos:  
    $$x(x+5)=x^2+5x.$$  
    Restamos:  
