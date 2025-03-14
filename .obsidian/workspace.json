@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
-                "mode": "preview",
+                "file": "Universidad/Cálculo Matemático 1/Análisis de Funciones.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Básicos de SQL y JOINs"
+              "title": "Análisis de Funciones"
             }
           },
           {
@@ -215,12 +215,12 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "232ca42b3c519eec",
+  "active": "1a42d7bc0cd26d74",
   "lastOpenFiles": [
-    "Universidad/Cálculo Matemático 1/Análisis de Funciones.md",
-    "Universidad/Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
-    "Universidad/Cálculo Matemático 1",
     "Universidad/Algoritmos y Estructuras de Datos/Recursión vs Iteración en Fuerza Bruta.md",
+    "Universidad/Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
+    "Universidad/Cálculo Matemático 1/Análisis de Funciones.md",
+    "Universidad/Cálculo Matemático 1",
     "General/consejos.md",
     "Tortilla de trigo.md",
     "Avena.md",
