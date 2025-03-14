@@ -134,10 +134,10 @@ Para clasificar estos puntos, analizamos el signo de $$f'(x)$$ en los intervalos
 **Conclusiones:**
 - En $$x=-10$$, $$f'(x)$$ cambia de positivo a negativo, lo que indica un **máximo local**.  
   - Valor:  
-    $$f(-10)=\\frac{(-10)^2}{-10+5}= \\frac{100}{-5}= -20.$$
+    $$f(-10)=\frac{(-10)^2}{-10+5}= \frac{100}{-5}= -20.$$
 - En $$x=0$$, $$f'(x)$$ cambia de negativo a positivo, lo que indica un **mínimo local**.  
   - Valor:  
-    $$f(0)=\\frac{0^2}{0+5}=0.$$
+    $$f(0)=\frac{0^2}{0+5}=0.$$
 
 *Nota:* Aunque $$-20$$ es un valor bajo, se trata de un máximo local en la rama de la función correspondiente a $$x<-5$$, mientras que en otras partes la función alcanza valores mayores.
 
@@ -149,7 +149,7 @@ Para clasificar estos puntos, analizamos el signo de $$f'(x)$$ en los intervalos
 
 Para analizar la **concavidad**, calculamos la segunda derivada de $$f(x)$$. Partimos de:
 $$
-f'(x)=\\frac{x(x+10)}{(x+5)^2}.
+f'(x)=\frac{x(x+10)}{(x+5)^2}.
 $$
 
 Utilizamos la fórmula de la derivada de un cociente, donde:
@@ -160,17 +160,17 @@ Utilizamos la fórmula de la derivada de un cociente, donde:
 
 Aplicamos la fórmula:
 $$
-f''(x)=\\frac{u'(x)v(x) - u(x)v'(x)}{v(x)^2}.
+f''(x)=\frac{u'(x)v(x) - u(x)v'(x)}{v(x)^2}.
 $$
 
 Sustituyendo:
 $$
-f''(x)= \\frac{(2x+10)(x+5)^2 - (x^2+10x)\\,2(x+5)}{(x+5)^4}.
+f''(x)= \frac{(2x+10)(x+5)^2 - (x^2+10x)\,2(x+5)}{(x+5)^4}.
 $$
 
 Extraemos un factor común de $$x+5$$ en el numerador:
 $$
-f''(x)= \\frac{(x+5)[(2x+10)(x+5)-2(x^2+10x)]}{(x+5)^4} = \\frac{(2x+10)(x+5)-2(x^2+10x)}{(x+5)^3}.
+f''(x)= \frac{(x+5)[(2x+10)(x+5)-2(x^2+10x)]}{(x+5)^4} = \frac{(2x+10)(x+5)-2(x^2+10x)}{(x+5)^3}.
 $$
 
 Realizando la expansión:
@@ -182,17 +182,17 @@ Realizando la expansión:
 
 Así, la segunda derivada es:
 $$
-f''(x)=\\frac{50}{(x+5)^3}.
+f''(x)=\frac{50}{(x+5)^3}.
 $$
 
 ### 5.2. Análisis de la Concavidad
 
 - **Para $$x > -5$$:**  
-  $$x+5>0 \\Longrightarrow (x+5)^3>0 \\quad\\Longrightarrow\\quad f''(x)>0.$$  
+  $$x+5>0 \Longrightarrow (x+5)^3>0 \quad\Longrightarrow\quad f''(x)>0.$$  
   La función es **cóncava hacia arriba** en este intervalo.
 
 - **Para $$x < -5$$:**  
-  $$x+5<0 \\Longrightarrow (x+5)^3<0 \\quad\\Longrightarrow\\quad f''(x)<0.$$  
+  $$x+5<0 \Longrightarrow (x+5)^3<0 \quad\Longrightarrow\quad f''(x)<0.$$  
   La función es **cóncava hacia abajo** en este intervalo.
 
 *Nota:* Aunque el cambio de concavidad ocurre en torno a $$x=-5$$, este punto es una discontinuidad (asíntota vertical) y, por tanto, no se clasifica como un punto de inflexión.
@@ -201,7 +201,7 @@ $$
 
 ## 6. Intervalos de Crecimiento y Decrecimiento
 
-Basándonos en el análisis de la primera derivada $$f'(x)=\\frac{x(x+10)}{(x+5)^2}$$, se tienen los siguientes intervalos:
+Basándonos en el análisis de la primera derivada $$f'(x)=\frac{x(x+10)}{(x+5)^2}$$, se tienen los siguientes intervalos:
 
 - **Creciente:**  
   - Para $$x < -10$$: $$f'(x)>0$$  
@@ -220,7 +220,7 @@ Recordar que la función no está definida en $$x=-5$$, por lo que se deben cons
 El **análisis de signos** ayuda a entender el comportamiento global de la función:
 
 - **Numerador:**  
-  $$x^2 \\ge 0$$ para todo $$x$$.  
+  $$x^2 \ge 0$$ para todo $$x$$.  
   Se anula en $$x=0$$.
 
 - **Denominador:**  
@@ -236,11 +236,11 @@ El **análisis de signos** ayuda a entender el comportamiento global de la funci
 
 ## 8. Resumen y Conexiones
 
-### Resumen del Análisis de $$f(x)=\\frac{x^2}{x+5}$$
-- **Dominio:** $$x\\in (-\\infty, -5)\\cup(-5,\\infty)$$.
+### Resumen del Análisis de $$f(x)=\frac{x^2}{x+5}$$
+- **Dominio:** $$x\in (-\infty, -5)\cup(-5,\infty)$$.
 - **Cero:** Se presenta en $$x=0$$.
 - **Asíntota vertical:** En $$x=-5$$.
-- **Asíntota oblicua:** La función se aproxima a $$y=x-5$$ cuando $$x\\to\\pm\\infty$$.
+- **Asíntota oblicua:** La función se aproxima a $$y=x-5$$ cuando $$x\to\pm\infty$$.
 - **Puntos críticos:**  
   - **Máximo local:** En $$x=-10$$, con $$f(-10)=-20$$.  
   - **Mínimo local:** En $$x=0$$, con $$f(0)=0$$.
@@ -248,7 +248,7 @@ El **análisis de signos** ayuda a entender el comportamiento global de la funci
   - **Cóncava hacia abajo** para $$x<-5$$.  
   - **Cóncava hacia arriba** para $$x>-5$$.
 - **Crecimiento/Decrecimiento:**  
-  - Creciente en $$(-\\infty,-10)$$ y $$(0,\\infty)$$.  
+  - Creciente en $$(-\infty,-10)$$ y $$(0,\infty)$$.  
   - Decreciente en $$(-10,-5)$$ y $$(-5,0)$$.
 - **Análisis de signos:**  
   - La función es negativa en $$x<-5$$ y positiva en $$x>-5$$, excepto en $$x=0$$ donde es cero.
