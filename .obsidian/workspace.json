@@ -11,10 +11,14 @@
             "id": "21f51b98d97c1a97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "General/comidas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "comidas"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/comidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from comidas"
             }
           },
           {
@@ -196,7 +201,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e9119ddc71521cab",
+  "active": "21f51b98d97c1a97",
   "lastOpenFiles": [
     "Diseño de Bases de Datos/Comandos Básicos de SQL y JOINs.md",
     "_NoteCompanion/Templates/enhance.md",
