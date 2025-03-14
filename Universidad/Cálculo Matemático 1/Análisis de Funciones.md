@@ -173,8 +173,7 @@ $$
 f''(x)= \frac{(x+5)[(2x+10)(x+5)-2(x^2+10x)]}{(x+5)^4} = \frac{(2x+10)(x+5)-2(x^2+10x)}{(x+5)^3}.
 $$
 
-Realizando la expansión:
-- $$ (2x+10)(x+5)= 2x^2+10x+10x+50= 2x^2+20x+50. $$
+Realizando la expansión: $$ (2x+10)(x+5)= 2x^2+10x+10x+50= 2x^2+20x+50. $$
 - Entonces:
   $$
   2x^2+20x+50-2x^2-20x=50.
@@ -203,17 +202,16 @@ $$
 
 Basándonos en el análisis de la primera derivada $$f'(x)=\frac{x(x+10)}{(x+5)^2}$$, se tienen los siguientes intervalos:
 
-- **Creciente:**  
+**Creciente:**  
   - Para $$x < -10$$: $$f'(x)>0$$  
   - Para $$x > 0$$: $$f'(x)>0$$
 
-- **Decreciente:**  
+**Decreciente:**  
   - Para $$-10 < x < -5$$: $$f'(x)<0$$  
   - Para $$-5 < x < 0$$: $$f'(x)<0$$
 
 Recordar que la función no está definida en $$x=-5$$, por lo que se deben considerar los intervalos por separado.
 
----
 
 ## 7. Análisis de Signos
 
