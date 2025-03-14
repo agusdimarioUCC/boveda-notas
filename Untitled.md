@@ -45,27 +45,28 @@ tags:
 > **Ejemplo de cada tipo de JOIN**  
 > 
 > ```sql
-> -- INNER JOIN
-> SELECT empleados.nombre, departamentos.nombre
-> FROM empleados
-> INNER JOIN departamentos ON empleados.departamento_id = departamentos.id;
-> ```
+```sql
+ -- INNER JOIN
+ SELECT empleados.nombre, departamentos.nombre
+ FROM empleados
+ INNER JOIN departamentos ON empleados.departamento_id = departamentos.id;
+ ```
 > 
-> ```sql
+```sql
 > -- LEFT JOIN
 > SELECT empleados.nombre, departamentos.nombre
 > FROM empleados
 > LEFT JOIN departamentos ON empleados.departamento_id = departamentos.id;
 > ```
 > 
-> ```sql
+```sql
 > -- RIGHT JOIN
 > SELECT empleados.nombre, departamentos.nombre
 > FROM empleados
 > RIGHT JOIN departamentos ON empleados.departamento_id = departamentos.id;
 > ```
 > 
-> ```sql
+```sql
 > -- FULL OUTER JOIN
 > SELECT empleados.nombre, departamentos.nombre
 > FROM empleados
